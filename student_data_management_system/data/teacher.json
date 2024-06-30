@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Sushil",
+        "Id": 311,
+        "Subject": "Python",
+        "address": "bkt",
+        "email": "sushil@gmail.com",
+        "phone no": "9811459611"
+    },
+    {
+        "Name": "Dinesh",
+        "Id": 1,
+        "Subject": "TOC",
+        "address": "bkt",
+        "email": "gothedinesh@gmail.com",
+        "phone no": "9811330121"
+    },
+    {
+        "Name": "Ramesh",
+        "Id": 432,
+        "Subject": "Maths",
+        "address": "ktm",
+        "email": "ramesh@gmail.com",
+        "phone no": "0881347784"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Sumit",
+        "roll": 41,
+        "email": "lsumit@gmail.com",
+        "address": "bkt",
+        "phone no": "9811459601",
+        "Marks": [
+            45,
+            64,
+            22
+        ]
+    },
+    {
+        "Name": "Tuyal",
+        "roll": 45,
+        "email": "tuyal@gmail.com",
+        "address": "bkt",
+        "phone no": "9888346587",
+        "Marks": [
+            99,
+            99,
+            99
+        ]
+    },
+    {
+        "Name": "Rakesh",
+        "roll": 33,
+        "email": "rakkesh@gmail.com",
+        "address": "bkt",
+        "phone no": "9881347765",
+        "Marks": [
+            74,
+            85,
+            64
+        ]
+    }
+]
